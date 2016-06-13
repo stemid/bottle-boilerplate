@@ -1,0 +1,16 @@
+body {
+  margin-bottom: 15px;
+}
+
+.msgbox {
+	border: 1px solid;
+	margin: 10px 0px;
+	padding:15px 10px 15px 25px;
+}
+
+.msgbox-error {
+	color: #D8000C;
+	background-color: #FFBABA;
+}
+
+
