@@ -18,14 +18,14 @@
 
   <div class="container">
     <noscript>
-      <div class="row" style="margin-top: 1%">
-        <div class="six columns msgbox msgbox-error" style="margin-top: 2%;">
+      <div class="row">
+        <div class="six columns msgbox msgbox-error" id="javascript-error">
           <p>Denna sidan kräver Javascript, du måste aktivera Javascript i din webbläsare för att fortsätta.</p>
         </div>
       </div>
     </noscript>
 
-    <div class="row" style="margin-top: 10%">
+    <div class="row" id="main-content">
       <div class="two-thirds column">
         <h4>Boilerplate</h4>
           <p>Hello world</p>
