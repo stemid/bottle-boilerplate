@@ -56,4 +56,4 @@ if __name__ == '__main__':
     )
     debug(config.getbool('app', 'debug'))
 else:
-    application = default_app
+    application = default_app()
